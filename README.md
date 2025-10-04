@@ -1,0 +1,2 @@
+# programa-metodo-simplex
+primero
